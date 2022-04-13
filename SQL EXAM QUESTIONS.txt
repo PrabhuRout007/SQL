@@ -1,0 +1,114 @@
+1-Write a query to create a database named "MyCustomDB" 
+
+2)	Write a query to create a new table named
+a)	"Employee" having columns  Employee l D, EmployeeName,Departmen tl D and DateOf Birth
+b)	"Department" having  columns   Departmentl D  &  DepartmentName
+c)	"Salary" having column  Departmentld, Employee I d and Salary
+
+3-Insert 5 records in Employee, 3 records in Department and 2 records in Salary 
+
+4-Show all employee records with their department name
+
+5-Show distinct salary
+
+6-Show employee name where department is 'HR'
+
+7-Show Salary where salary is more than 1and less than 5000 or salary is null
+  
+8-Show list of employee and their salary from low to high in ascending order 
+
+9-Show Departments where employee is not linked
+
+10-Update employee salary by 1000
+
+11- Delete department which is not in use
+
+12-Show top 2 employee who's salary is max w.r.t salary table 
+
+13-(a) Show employee whose salary is max
+
+13-(b) Show employee who is most young
+
+14-Show employee count who is from HR department
+
+15-Show employees who are from department name start from 'dev' 
+
+16-Show list of employee who's name contains letter K
+
+17-Show list of employee who are born in year 1990 to 2020
+
+18-Show list of employee who are working under 'HR' and 'Development' department
+
+19-Show employee list with different alias than table column name with suitable name for reporting
+
+20-Show list of employee from employee, department and salary table with using joining to show  EmployeeID, Name, Salary and  DepartmentName
+
+21-Give an example of Inner join
+
+22-Show an example of Left join and share why its used 
+
+23-What is Right join and when to use it . Given an example
+ 
+24-What is full join ?
+
+25-When to use self join . Show an example
+
+26-What is use of union and what is limitation of using union
+
+27-When to use Group by and given an example of list of employee with sum of their salary 
+
+28-when to use having clause and share one example
+
+29-When to use Exists. Shown an Example
+
+30-Give an example of Any and All and express why its used
+
+31-How to insert data from one table to another using select into statement ? Give an example and share when to be used it .
+ 
+32-When to use insert into and how its useful ?
+
+33-When to use case and what problem can be fixed using it .
+
+34-Write a store procedure  to having an input  Employee  I D based  on which employee details can be shown while executing it .
+
+35-What is comment and SQL and when to use it ?
+
+36-What are different operators in MSSQL given 2 examples
+
+37-Create a new DB name "DBNeverExis ts" and write its drop query;. 
+
+38-How to take backup and why its important ?
+
+39-Create a new table "MyTable" and drop it
+
+40-Create a new table "MyNewTable" with one column "Id" and once its created, add one more column on it using alter table statement 
+ 
+41-What are constraints and when to use it . Given an example
+
+42-Given an example of creating a column having not null option with it . 
+
+43-Create a table to have only unique values in it .
+
+44-Create a table having primary key with it .
+
+45-Create two table and create a primary and foreign key relation with it . Also shown an example as how inserting a wrong data to 
+ensure foreign key is restricting non existing data
+
+46-Add a new column in any existing table and add a logic to have only limited values 
+
+47-Create a table to hold a default values for a column
+
+48-Create one index on existing table and show its example
+
+49-Create a new table having option to increment its value by one without specifying its values 
+
+50-Insert a current date in existing date field .
+
+51-Create one view to show data from employee, department and salary table and write to show data from it .
+ 
+52-What is injection and how to prevent it .
+
+53-What are different data types in SQL server. Given three example
+
+54-Write what are different keyword of SQL server. Give any five example.
+
